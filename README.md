@@ -1,2 +1,1 @@
-# analysis-SQL
-analysis data with SQL
+Analyze data by creating tables and aggregate functions
